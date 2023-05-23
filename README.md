@@ -8,6 +8,3 @@ git init
 git add README.md
 git commit -m first commit
 git branch -M main
-[200~git remote add origin https://github.com/jacoporenier/verifica2305.git
-git remote add origin https://github.com/jacoporenier/verifica2305.git
-git push -u origin main
